@@ -22,6 +22,10 @@ void primefactorization(int n){
     for(int i=0; i<prm.size(); i++){
         cout << exp[i] << " Times: " << prm[i] << endl;
     }
+    if(n>1){    // tha is we are left with the last prime number
+        prm.push_back(n);   // since last left afterwards is prime number only
+        exp.push_back(1);
+    }
 }
 
 int main(){
