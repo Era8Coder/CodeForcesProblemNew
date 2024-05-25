@@ -1,2 +1,3 @@
 # CodeForcesProblemNew
-I will try my best to update better solutions with beauty this time
+"Time does not heal anything.
+It just teaches you to live with Pain."
